@@ -16,6 +16,7 @@ I'm currently studying at Instituto Superior Técnico
   <img align="right" alt="pic" height="150" style="border-radius:50px;" 
   <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://cdn-icons-png.flaticon.com/512/2165/2165706.png">
 </div>
+  <i class="fa-brands fa-java"></i>
 
   ![Snake animation](https://github.com/diogojcadete/diogojcadete/blob/output/github-contribution-grid-snake.svg)
 
