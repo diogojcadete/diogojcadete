@@ -1,6 +1,15 @@
-## Hi, I'm Diogo Cadete 
+## <h1 align="center">Hi 👋, I'm Diogo Cadete</h1>
+<h3 align="center">A student from IST</h3>
 
-I'm currently studying at Instituto Superior Técnico
+- 🌱 I’m currently learning **Programming and Telecommunications**
+
+- 📫 How to reach me **diogojcadete@gmail.com**
+
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <div align="center">
   <a href="https://github.com/rafaballerini](https://github.com/diogojcadete">
@@ -9,14 +18,4 @@ I'm currently studying at Instituto Superior Técnico
 </div>
    
   
-  pretty average at:
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="right" alt="pic" height="150" style="border-radius:50px;" 
-  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://cdn-icons-png.flaticon.com/512/2165/2165706.png">
-</div>
-  <i class="fa-brands fa-java"></i>
-
-  ![Snake animation](https://github.com/diogojcadete/diogojcadete/blob/output/github-contribution-grid-snake.svg)
-
+ 
