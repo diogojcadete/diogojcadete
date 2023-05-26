@@ -1,4 +1,5 @@
-## <h1 align="center">Hi 👋, I'm Diogo Cadete</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Prompt&pause=1000&width=435&height=30&lines=Hello!;Welcome+to+my+Github+page+%F1%9F%91%8F)](https://git.io/typing-svg)
+## <h1 align="center"> I'm Diogo Cadete</h1>
 <h3 align="center">A student from IST</h3>
 
 - 🌱 I’m currently learning **Programming and Telecommunications**
