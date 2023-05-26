@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Prompt&pause=1500&width=500&height=30&lines=Hello+viewer!+%F0%9F%91%80;Welcome+to+my+Github+page+%F0%9F%93%84)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Prompt&pause=1000&width=500&height=30&lines=Hello+viewer!+%F0%9F%91%80;Welcome+to+my+Github+page+%F0%9F%93%84)](https://git.io/typing-svg)
 ## <h1 align="center"> I'm Diogo Cadete</h1>
 <h3 align="center">A student from IST</h3>
 
