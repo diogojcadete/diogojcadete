@@ -11,11 +11,10 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<div align="center">
-  <a href="https://github.com/rafaballerini](https://github.com/diogojcadete">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diogojcadete&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogojcadete&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
+  <a href="https://github.com/diogojcadete/github-readme-stats"><img alt="Diogo Cadete Github Stats" src="https://github-readme-stats.vercel.app/api?username=diogojcadete&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/diogojcadete/github-readme-stats"><img alt="Diogo Cadete Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogojcadete&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+‎ 
    
+  
   
  
