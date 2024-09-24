@@ -2,7 +2,7 @@
 ## <h1 align="center"> I'm Diogo Cadete</h1>
 <h3 align="center">A student from IST</h3>
 
-- 🌱 I’m currently learning **Programming and Telecommunications**
+- 🌱 I’m currently learning **Computer Science** after having finished my BSc in Programming and Telecommunications
 
 - 📫 How to reach me **diogojcadete@gmail.com**
 
